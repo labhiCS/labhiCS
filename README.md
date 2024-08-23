@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***TeamWorker*** 😊 <br>
-✔ I’m currently studying Computer Engineering.<br>
+✔ I’m currently studying ***Java Programming***.<br>
 ✔ I’m currently learning about **ASP.Net and Front End**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
