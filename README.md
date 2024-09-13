@@ -9,7 +9,7 @@ Welcome to my GitHub profile. I’m currently pursuing a Bachelor of Information
 - 👯 **Looking to Collaborate On:** Open-source projects related to web development and software engineering.
 - 🤔 **Interested In:** Exploring new technologies and improving coding skills.
 - 💬 **Feel Free to Ask Me About:** Java programming, ASP.NET, or general software development.
-- 📫 **How to Reach Me:** [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 **How to Reach Me:** [Email](mailto:la.abhishek23@ncmt.edu.np.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ### Skills and Technologies
 
